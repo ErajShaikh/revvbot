@@ -1,0 +1,12 @@
+{
+  "name": "revvbot",
+  "version": "1.0.0",
+  "description": "Professional Discord review management bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.13.0"
+  }
+}
